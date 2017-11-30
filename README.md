@@ -1,4 +1,4 @@
-# *Contact List* Quiz
+# *Product Catalog* Quiz
 
 
 ## Introduction
